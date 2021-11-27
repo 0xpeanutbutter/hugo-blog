@@ -1,4 +1,8 @@
 baseURL: https://omar1024.github.io/blog/
 languageCode: en-us
-title: Blog
+title: blog
 theme: "PaperMod"
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
