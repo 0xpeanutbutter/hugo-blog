@@ -1,8 +1,30 @@
 baseURL: https://omar1024.github.io/blog/
 languageCode: en-us
-title: blog
+title: Blog
 theme: "PaperMod"
 
 params:
-  defaultTheme: auto
-  ShowReadingTime: true
+  profileMode:
+    enabled: false
+    title: Omar
+    imageUrl: "https://avatars.githubusercontent.com/u/53396920?v=4"
+    imageTitle: Profile
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: recipes
+        url: recipes
+      - name: Technical
+        url: technical
+      - name: Travel
+        url: travel
+  ShowBreadCrumbs: true
+  env: production
+  homeInfoParams:
+    Title: Omar
+    Content: Hey, Welcome to my Personal Blog.
+  socialIcons:
+    - name: github
+      url: "https://github.com/omar1024"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/omar1024/"
