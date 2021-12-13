@@ -13,6 +13,7 @@ So lets start ye
 
 - Coffee
   - I prefer nescafe, I heard rage coffee is really good, but any coffee which doesn't leave any residue would be fine
+    ![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/pow.jpeg)
 - Milk
 - Sugar
 
@@ -26,10 +27,14 @@ This has three stages
      ![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/bend.gif)
 
 2. Pour
+
    - While you are at it, boil the milk may be
    - Make sure the milky is little frothy
    - Pour the milk in the beaten mixture
+     ![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/pour.gif)
+
 3. Slurp
    - Primary rule while drinking coffee
-     - we dont sip it, we slurp it
-     - Here is an [article](https://latinamericancoffeeacademy.org/slurp-coffee/) why you should slurp your coffee
+   - we dont sip it, we slurp it
+   - Here is an [article](https://latinamericancoffeeacademy.org/slurp-coffee/) why you should slurp your coffee
+     ![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/final.jpeg)
