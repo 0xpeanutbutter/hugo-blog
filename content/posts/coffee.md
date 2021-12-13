@@ -23,7 +23,7 @@ This has three stages
    - Here we take 1 and half 'coffee spoon' of coffee with 1 and half coffee spoon of sugar (add as per your taste)
    - Add one coffeespoon of lukewarm water
    - And Beat the shit outta that mixture
-     ![beat](https://ibb.co/d24Bq1F)
+     ![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/bend.gif)
 
 2. Pour
    - While you are at it, boil the milk may be
