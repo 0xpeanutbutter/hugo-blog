@@ -34,7 +34,9 @@ This has three stages
      ![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/pour.gif)
 
 3. Slurp
-   - Primary rule while drinking coffee
-   - we dont sip it, we slurp it
-   - Here is an [article](https://latinamericancoffeeacademy.org/slurp-coffee/) why you should slurp your coffee
-     ![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/final.jpeg)
+
+![bend](https://raw.githubusercontent.com/omar1024/hugo-blog/master/static/coffee/final.jpeg)
+
+- Primary rule while drinking coffee
+- we dont sip it, we slurp it
+- Here is an [article](https://latinamericancoffeeacademy.org/slurp-coffee/) why you should slurp your coffee
